@@ -46,11 +46,14 @@ Looking at the overall summary table above, the suspension coils are well under 
 ## T-Tests on Suspension Coils
 
 <b><i>T-Test #1</i></b>
+
 ![TTest1](https://github.com/LindsayTeeters/Challenge-15-MechaCar_Statistical_Analysis/blob/main/Resources/Lot%201%20T-test.png)
 
 <b><i>T-Test #2</i></b>
+
 ![TTest2](https://github.com/LindsayTeeters/Challenge-15-MechaCar_Statistical_Analysis/blob/main/Resources/Lot%202%20T-test.png)
 
 <b><i>T-Test #3</i></b>
+
 ![TTest3](https://github.com/LindsayTeeters/Challenge-15-MechaCar_Statistical_Analysis/blob/main/Resources/Lot%203%20T-test.png)
 
