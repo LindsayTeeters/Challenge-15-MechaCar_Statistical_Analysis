@@ -46,14 +46,17 @@ Looking at the overall summary table above, the suspension coils are well under 
 ## T-Tests on Suspension Coils
 
 <b><i>T-Test #1</i></b>
----
+
 ![TTest1](https://github.com/LindsayTeeters/Challenge-15-MechaCar_Statistical_Analysis/blob/main/Resources/Lot%201%20T-test.png)
+-Lot 1 T-test had a p-value of 1. This means that there is not enough evidence to reject the null hypothesis. The mean PSI is not statsistically different from the popuplation mean of 1,500 pounds per square inch. 
 
 <b><i>T-Test #2</i></b>
----
-![TTest2](https://github.com/LindsayTeeters/Challenge-15-MechaCar_Statistical_Analysis/blob/main/Resources/Lot%202%20T-test.png)
 
-<b><i><u>T-Test #3</u></i></b>
+![TTest2](https://github.com/LindsayTeeters/Challenge-15-MechaCar_Statistical_Analysis/blob/main/Resources/Lot%202%20T-test.png)
+-Lot 2 T-test had a p-value of 0.06. This means there is enough to reject the null hypothesis. THe mean PSI is statistically different from the population mean of 1,500 pounds per square inch.
+
+<b><i>T-Test #3</i></b>
 
 ![TTest3](https://github.com/LindsayTeeters/Challenge-15-MechaCar_Statistical_Analysis/blob/main/Resources/Lot%203%20T-test.png)
+-Lot T-test had a p-value of 0.04. This means there is enough evidence to reject the null hypothesis. THe mean PSI is statistically different from the population mean of 1,500 pounds per square inch.
 
