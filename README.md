@@ -53,7 +53,7 @@ Looking at the overall summary table above, the suspension coils are well under 
 ---
 ![TTest2](https://github.com/LindsayTeeters/Challenge-15-MechaCar_Statistical_Analysis/blob/main/Resources/Lot%202%20T-test.png)
 
-<b><i>T-Test #3</i></b>
-----
+<b><i><u>T-Test #3</u></i></b>
+
 ![TTest3](https://github.com/LindsayTeeters/Challenge-15-MechaCar_Statistical_Analysis/blob/main/Resources/Lot%203%20T-test.png)
 
