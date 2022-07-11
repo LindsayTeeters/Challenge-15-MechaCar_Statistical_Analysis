@@ -8,8 +8,8 @@ We are part of the data analytics team at AutosRUs. Upper Management needs some 
   - Deliverable 4: Design a Study Comparing the MechaCar to the Competition
 
 -----------------------------------------------------------------------------------
-## Linear Regression to Predict MPG
+  ## Linear Regression to Predict MPG
 
 <kbd>
 
-![Deliverable 1](https://github.com/LindsayTeeters/Challenge-15-MechaCar_Statistical_Analysis/blob/main/Resources/summary%20mpg%20vehicle%20lengthwidth.png) </kbd>
+![Deliverable 1](https://github.com/LindsayTeeters/Challenge-15-MechaCar_Statistical_Analysis/blob/main/Resources/summary%20mpg%20vehicle%20lengthwidth.png)</kbd>
