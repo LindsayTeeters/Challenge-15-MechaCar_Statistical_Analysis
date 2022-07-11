@@ -15,6 +15,7 @@ We are part of the data analytics team at AutosRUs. Upper Management needs some 
 
 
 Addressed Questions:
+
 <b>1. Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?</b>
 The ground clearance and vehicle length both would greatly affect miles per gallon. These two are non-random variables when considering mpg.
 
