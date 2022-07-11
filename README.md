@@ -27,9 +27,11 @@ Although its not 100%, this linear model is a good model to predict miles per ga
 
   ## Summary Statistics on Suspension Coils
   
-  Total Summary
-  ![Total Summary](https://github.com/LindsayTeeters/Challenge-15-MechaCar_Statistical_Analysis/blob/main/Resources/Total_Summary.png)
+  <b><i>Total Summary</i></b>
   
-  Lot Summary
+  ![Total Summary](https://github.com/LindsayTeeters/Challenge-15-MechaCar_Statistical_Analysis/blob/main/Resources/Total_Summary.png)
+ 
+ <b><i> Lot Summary</i></b>
+ 
   ![Lot Summary](https://github.com/LindsayTeeters/Challenge-15-MechaCar_Statistical_Analysis/blob/main/Resources/Lot%20Summary%20Table.png)
   
