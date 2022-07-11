@@ -34,4 +34,8 @@ Although its not 100%, this linear model is a good model to predict miles per ga
  <b><i> Lot Summary</i></b>
  
   ![Lot Summary](https://github.com/LindsayTeeters/Challenge-15-MechaCar_Statistical_Analysis/blob/main/Resources/Lot%20Summary%20Table.png)
-  
+
+Addressed Question:
+
+<b><I>1. The design specifications for the MechaCar suspension coils dictate that the variance of the suspension coils must not exceed 100 pounds per square inch. Does the current manufacturing data meet this design specification for all manufacturing lots in total and each lot individually? Why or why not?</I></b>
+Looking at the overall summary table above, the suspension coils are well under the 100 pounds per square inch variance. However, looking at each lot line seperately, not all pass this requriement. Lot 3 exceeds the 100 pound limit by almost double the amount. This lot is pushing the overall variance higher. If this one was removed, it the other lots would fall much more inline. 
