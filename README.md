@@ -12,7 +12,8 @@ We are part of the data analytics team at AutosRUs. Upper Management needs some 
 
 <kbd>
 
-![Deliverable 1](https://github.com/LindsayTeeters/Challenge-15-MechaCar_Statistical_Analysis/blob/main/Resources/summary%20mpg%20vehicle%20lengthwidth.png)</kbd>
+![Deliverable 1](https://github.com/LindsayTeeters/Challenge-15-MechaCar_Statistical_Analysis/blob/main/Resources/summary%20mpg%20vehicle%20lengthwidth.png)
+</kbd>
 
 Addressed Questions:
 <b>1. Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?</b>
