@@ -16,9 +16,12 @@ We are part of the data analytics team at AutosRUs. Upper Management needs some 
 
 Addressed Questions:
 
-<b>1. Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?</b>
+<b><I>1. Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?</I></b>
 The ground clearance and vehicle length both would greatly affect miles per gallon. These two are non-random variables when considering mpg.
 
-<b>2. Is the slope of the linear model considered to be zero? Why or why not?</b>
+<b><I>2. Is the slope of the linear model considered to be zero? Why or why not?</I></b>
 The slope of this linear model is not 0. The p-value is 5.35. Some of the variables drastically impact the miles per gallon of the vehicle.
+
+<b><I>Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?</I></b>
+Although its not 100%, this linear model is a good model to predict miles per gallon (mpg) or the MechCar prototupe. The R-squared is 0.7149, which is an adequate level to base the predicitons off of. 
 
