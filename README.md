@@ -25,3 +25,11 @@ The slope of this linear model is not 0. The p-value is 5.35. Some of the variab
 <b><I>Does this linear model predict mpg of MechaCar prototypes effectively? Why or why not?</I></b>
 Although its not 100%, this linear model is a good model to predict miles per gallon (mpg) or the MechCar prototupe. The R-squared is 0.7149, which is an adequate level to base the predicitons off of. 
 
+  ## Summary Statistics on Suspension Coils
+  
+  Total Summary
+  ![Total Summary](https://github.com/LindsayTeeters/Challenge-15-MechaCar_Statistical_Analysis/blob/main/Resources/Total_Summary.png)
+  
+  Lot Summary
+  ![Lot Summary](https://github.com/LindsayTeeters/Challenge-15-MechaCar_Statistical_Analysis/blob/main/Resources/Lot%20Summary%20Table.png)
+  
