@@ -13,3 +13,11 @@ We are part of the data analytics team at AutosRUs. Upper Management needs some 
 <kbd>
 
 ![Deliverable 1](https://github.com/LindsayTeeters/Challenge-15-MechaCar_Statistical_Analysis/blob/main/Resources/summary%20mpg%20vehicle%20lengthwidth.png)</kbd>
+
+Addressed Questions:
+<b>1. Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?</b>
+The ground clearance and vehicle length both would greatly affect miles per gallon. These two are non-random variables when considering mpg.
+
+<b>2. Is the slope of the linear model considered to be zero? Why or why not?</b>
+The slope of this linear model is not 0. The p-value is 5.35. Some of the variables drastically impact the miles per gallon of the vehicle.
+
